@@ -2,7 +2,7 @@
 # Poseidon - Command and Control 
 Poseidon is the latest of the latest, newest of the newst C2 tool. This tool is advancly made and have been spend many hours on and is gonna be spend even more on. The current version is unreleased but updates will come here and data.
 
-- Current Version: 0.0.4
+- Current Version: 0.0.1
 - Release Version: 1.0.0 (will be released on this version)
 - Developers: [@himvb](https://github.com/himvb)
 - Languages: C++, C
