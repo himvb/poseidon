@@ -23,10 +23,12 @@ Later...
 07-01-2025
 - Project Started
 - Github Created
+- API Key System Created
+- Main Menu created
 ## Installation and Deployment
 
 1. Edit `config.json` to ur likings, with api's, features, etc.
-2. Add or remove stuff from `data/logins.txt` to ur likings, u most format them like this: `username:password:yyyy-mm-dd`
+2. Add or remove stuff from `data/keys.json` to ur likings.
 3. Deploy the program by either right-clicking on the program and pressing **OPEN**, or double click on it.
 4. More steps may come..
 ## Documentation
@@ -39,6 +41,10 @@ For the docs on our tool please go to the [DOCUMENTATION.md](https://github.com/
 No, we are strongly against this and do not include any of these in our program. This program is meant for users to use not for users to be used. You may scan the program for anything, and if something comes back positiv like a malware, please create a ticket and we will solve the issue.
 
 #### More questions will come...
+
+## PICTURES OF PROGRAM
+![launch](https://media.discordapp.net/attachments/1326263726097305600/1326287746121338940/image.png?ex=677ee137&is=677d8fb7&hm=9686ea5a824a20bed8616aac18949633d8046ede2ae3e902d62fe62828d427b2&=&format=webp&quality=lossless)
+![mainmenu](https://media.discordapp.net/attachments/1326263726097305600/1326287792027992186/image.png?ex=677ee142&is=677d8fc2&hm=aee4b0fd00bab4525b6d047ae2099c4e49250312c2fc64b45a60efed847d6acd&=&format=webp&quality=lossless)
 
 ## Features
 
