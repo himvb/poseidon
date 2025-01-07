@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "version_title": "Release",
+  "announcement": {
+    "status": true,
+    "updated_by": "himvb",
+    "updated_at": "2025-01-07",
+    "added_features": "\n- feature 1\n- feature 2",
+    "deleted_features": "\n- feature 1\n -feature 2",
+    "file_size": "0.0 MB\n"
+  }
+}
